@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_Room</string>
+    <string name="introduce_tu_nota">Introduce tu nota por favor</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="nota_borrada">Nota borrada con éxito</string>
+    <string name="nota_no_existe">La nota no existe</string>
+    <string name="nota_creada">Nota creada con éxito</string>
+    <string name="nota_actualizada">Nota actualizada con éxito</string>
+    <string name="crea_nota_primero">Crea primero una nota</string>
+
+
+</resources>
